@@ -26,10 +26,10 @@ nav	ul	li
 {
 	display:inline-block;
 	margin-right:20px;
-	color:#111111;
+	color:#0C0909;
 	cursor:pointer;
 	padding:5px;
-
+	
 	transition:all 0.5s linear;
 	-webkit-transition:all 0.5s linear;
 	-moz-transition:all 0.5s linear;
@@ -38,7 +38,7 @@ nav	ul	li
 nav ul li:hover 
 {
 	background-color:#FAD7D7;
-	color:#FAD7D7;
+	color:#0C0909;
 	border-radius: 5px;
 }	
 #Texto
