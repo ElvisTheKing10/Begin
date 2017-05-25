@@ -26,7 +26,7 @@ nav	ul	li
 {
 	display:inline-block;
 	margin-right:20px;
-	color:#138908;
+	color:#111111;
 	cursor:pointer;
 	padding:5px;
 
@@ -37,8 +37,8 @@ nav	ul	li
 }
 nav ul li:hover 
 {
-	background-color:#138908;
-	color:#138908;
+	background-color:#FAD7D7;
+	color:#FAD7D7;
 	border-radius: 5px;
 }	
 #Texto
