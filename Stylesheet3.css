@@ -3,3 +3,10 @@ body
 	background-color:#ADFAE1;
 	font-family:"Homer Simpson", Times;
 }
+#contenido
+{
+	width:960px;
+	margin:0 auto;
+	text-align:center;
+	color:#1D1D1D;
+}
