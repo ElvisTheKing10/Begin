@@ -40,3 +40,16 @@ nav ul li:hover
 	background-color:#FAD7D7;
 	color:#0C0909;
 	border-radius: 5px;
+}
+#Texto
+{
+	width:1000px;
+	height:505px;
+	“background-color: rgba(0,0,255,0.5);”
+	color:#000000;
+	margin:0 auto;
+	text-align:left;
+	border-radius:20px;
+	padding:20px;
+	box-shadow:0px 0px 20px rgba(0,0,0,0.5);
+}
