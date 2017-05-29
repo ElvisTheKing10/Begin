@@ -22,7 +22,7 @@ p2
   font-size: 20px;
   font-weight: bold;
 }
-	nav	ul	li	
+nav	ul	li	
 {
 	display:inline-block;
 	margin-right:20px;
@@ -40,11 +40,11 @@ nav ul li:hover
 	background-color:#FAD7D7;
 	color:#0C0909;
 	border-radius: 5px;
-}
+}	
 #Texto
 {
 	width:1000px;
-	height:1500px;
+	height:1200px;
 	“background-color: rgba(0,0,255,0.5);”
 	color:#000000;
 	margin:0 auto;
@@ -53,3 +53,113 @@ nav ul li:hover
 	padding:20px;
 	box-shadow:0px 0px 20px rgba(0,0,0,0.5);
 }
+footer
+{
+	color:#A7AE43;
+	bottom:0px;
+	font-size: 20px;
+	font-weight: bolder;
+	background-color: #1d1d1d;
+	border-radius:10px;
+	bottom: 0px;
+}	
+meter
+{
+	background-color:#FFF;
+	padding:5px;
+	border-radius:5px;
+	color:#e44e2d;
+	margin:5px;
+	width:500px;
+	font-weight: 15px;
+}
+label
+{
+	display: block;
+	color: #e44e2d;
+	font-weight: bolder;
+	font-size: 20px;
+
+}
+#btnSubmit
+{
+	border:none;
+	background-color:#e44e2d;
+	color:#FFF;
+	padding:4px;
+	margin: 20px;
+	cursor:pointer; 
+}
+#calificacion
+{
+	width:150px;
+	-webkit-appearance:none;
+	background-color:#FFF;
+	height: 20px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+#calificacion::-webkit-slider-thumb
+{
+	-webkit-appearance:none;
+	background-color:#e44e2d;
+	border-radius:10px;
+	height:15px;
+	width:10px;
+}
+p
+{
+	color: #800000;
+	font-size: 25px;
+	font-weight: bolder;
+
+}
+p3
+{
+	color:#880611;
+	font-size:28px;
+}
+label input 
+{
+	color: #880611;
+	font-weight: bold;
+	font-size: 20px;
+}
+marquee
+{
+	color:#880611;
+	font-weight: bolder;
+}
+ul li a
+{
+	font-weight: bold;
+	color:#D16517;
+
+}
+h
+{
+	color: #8C8C8C;
+	font-weight: bold;
+	font-size: 60px;
+}
+h3
+{
+	color: #06EA32;
+	font-size: 40px;
+	font-weight: bold;
+
+}
+p a
+{
+	font-weight: bold;
+	color:#00F41E;
+	font-size: 25px;
+	background-color: #1d1d1d;
+	border-radius: 5px;
+	padding: 5px;
+
+} 
+li a 
+{
+	color: #0C0909;
+	font-size: 20px;
