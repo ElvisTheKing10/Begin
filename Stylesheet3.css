@@ -51,7 +51,7 @@ nav ul li:hover
 	text-align:left;
 	border-radius:20px;
 	padding:20px;
-	box-shadow:0px 0px 20px rgba(0,0,0,0.5);
+	box-shadow:0px 0px 50px rgba(0,0,0,0.5);
 }
 footer
 {
