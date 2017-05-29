@@ -133,8 +133,8 @@ marquee
 ul li a
 {
 	font-weight: bold;
-	color:#D16517;
-
+	color:#1d1d1d;
+	font-size: 20px;
 }
 h
 {
