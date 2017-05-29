@@ -10,6 +10,12 @@ body
 	text-align:center;
 	color:#1D1D1D;
 }
+h1
+{
+	color:#0000FF;
+	font-weight: bold;
+	font-size: 20px
+}
 p2
 {
   color:#025206;
@@ -55,7 +61,6 @@ footer
 	font-weight: bolder;
 	background-color: #1d1d1d;
 	border-radius:10px;
-	bottom: 0px;
 }	
 p
 {
